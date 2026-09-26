@@ -17,7 +17,7 @@
 </p>
 
 <h2 align="center">
-👋 Hi, I’m [**@biddut-webdev**](https://github.com/biddut-webdev)
+- 👋 I'm **Biddute Hossen**, a passionate Web Developer.
 </h2>
 
 <p align="center">
