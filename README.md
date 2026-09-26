@@ -17,7 +17,7 @@
 </p>
 
 <h2 align="center">
-Hi 👋, I'm Biddute Hossen
+  Hi 👋, I'm Biddute Hossen
 </h2>
 
 <p align="center">
@@ -27,18 +27,25 @@ Hi 👋, I'm Biddute Hossen
   />
 </p>
 
+<p align="center">
+  👋 Hi, I’m
+  <a href="https://github.com/biddut-webdev">
+    <strong>@biddut-webdev</strong>
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
 * 👋 I'm **Biddute Hossen**, a passionate Web Developer.
-* 💻 I'm currently building projects with **React and Next.js**.
-* ⚛️ I'm improving my skills in **React, TypeScript and Next.js**.
+* 💻 Currently building projects with **React and Next.js**.
+* ⚛️ Improving my skills in **React, TypeScript and Next.js**.
 * 🎨 I enjoy creating **modern, responsive and user-friendly interfaces**.
-* 🧩 I'm learning how to build **reusable and maintainable components**.
-* 🧠 I'm continuously strengthening my **JavaScript fundamentals**.
-* 🚀 I enjoy learning by building **real-world projects**.
-* 🎯 My long-term goal is to become a **professional full-stack developer**.
+* 🧩 Learning to build **reusable and maintainable components**.
+* 🧠 Continuously strengthening my **JavaScript fundamentals**.
+* 🚀 Learning by building **real-world projects**.
+* 🎯 Long-term goal: becoming a **professional full-stack developer**.
 
 ---
 
@@ -103,26 +110,35 @@ Hi 👋, I'm Biddute Hossen
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
 
 ### 📚 Book Vibe
 
-A modern book discovery and reading-list application built with Next.js and TypeScript.
+A modern book discovery and reading-list application built with **Next.js and TypeScript**.
 
 **Tech Stack**
 
 `Next.js` `React` `TypeScript`
 `Tailwind CSS` `DaisyUI`
 
-<a href="https://github.com/biddut-webdev/Book-vibe">
-  View Repository →
-</a>
+<p>
+  <a href="https://github.com/biddut-webdev/Book-vibe">
+    <img
+      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Book Vibe Repository"
+    />
+  </a>
+  <a href="https://book-vibe-amber-seven.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Book Vibe Live Demo"
+    />
+  </a>
+</p>
 
-```
-</td>
+  </td>
 
-<td width="50%">
-```
+  <td width="50%" valign="top">
 
 ### 🏋️ Fit Log
 
@@ -133,18 +149,26 @@ A fitness workout planning application for exploring exercises and managing pers
 `Next.js` `React` `TypeScript`
 `Tailwind CSS`
 
-<a href="https://github.com/biddut-webdev/fit-log">
-  View Repository →
-</a>
+<p>
+  <a href="https://github.com/biddut-webdev/fit-log">
+    <img
+      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Fit Log Repository"
+    />
+  </a>
+  <a href="https://fit-log-beige-ten.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Fit Log Live Demo"
+    />
+  </a>
+</p>
 
-```
-</td>
-```
-
+  </td>
   </tr>
 
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
 
 ### 🧩 Dev Stack Builder
 
@@ -154,15 +178,18 @@ A React application for exploring technologies and building a personalized devel
 
 `React` `TypeScript` `Tailwind CSS`
 
-<a href="https://github.com/biddut-webdev/dev-stack-builder">
-  View Repository →
-</a>
+<p>
+  <a href="https://github.com/biddut-webdev/dev-stack-builder">
+    <img
+      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Dev Stack Builder Repository"
+    />
+  </a>
+</p>
 
-```
-</td>
+  </td>
 
-<td width="50%">
-```
+  <td width="50%" valign="top">
 
 ### ⚡ Hero App
 
@@ -172,20 +199,22 @@ A frontend project built while practicing modern React development.
 
 `React` `JavaScript` `Tailwind CSS`
 
-<a href="https://github.com/biddut-webdev/Hero-App">
-  View Repository →
-</a>
+<p>
+  <a href="https://github.com/biddut-webdev/Hero-App">
+    <img
+      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Hero App Repository"
+    />
+  </a>
+</p>
 
-```
-</td>
-```
-
+  </td>
   </tr>
 </table>
 
 ---
 
-# 📊 GITHUB STATISTICS & ANALYSIS
+## 📊 GITHUB STATISTICS
 
 ### 🟩 GitHub Contributions
 
@@ -205,13 +234,11 @@ A frontend project built while practicing modern React development.
     height="180"
     alt="GitHub Statistics"
   />
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=biddut-webdev&layout=compact&theme=tokyonight&hide_border=true"
- height="180"
- alt="Top Languages"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=biddut-webdev&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ### 🔥 GitHub Streak
