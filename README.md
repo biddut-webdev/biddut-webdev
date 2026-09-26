@@ -27,9 +27,7 @@
   />
 </p>
 
-<p align="center">
-  👋 Hi, I’m<a href="https://github.com/biddut-webdev"><strong>@biddut-webdev</strong> </a>
-</p>
+
 
 ---
 
