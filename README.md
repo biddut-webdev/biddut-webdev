@@ -37,7 +37,6 @@
 
 
 *👋 Hi, I’m<a href="https://github.com/biddut-webdev"><strong>@biddut-webdev</strong></a>
-
 * 💻 Currently building projects with **React and Next.js**.
 * ⚛️ Improving my skills in **React, TypeScript and Next.js**.
 * 🎨 I enjoy creating **modern, responsive and user-friendly interfaces**.
