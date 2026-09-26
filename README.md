@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="./banner.png"
+    src="./biddut03.png"
     width="100%"
     alt="Biddute Hossen - Web Developer"
   />
