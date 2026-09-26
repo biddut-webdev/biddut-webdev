@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/biddut-webdev">
     <img
-      src="./profile.png"
+      src="./biddut.jpeg"
       width="150"
       alt="Biddute Hossen"
     />
@@ -60,19 +60,28 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML CSS JavaScript TypeScript" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts"
+    alt="HTML CSS JavaScript TypeScript"
+  />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" alt="React Next.js" />
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs"
+    alt="React Next.js"
+  />
 </p>
 
 ### CSS Frameworks & UI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  <img
+    src="https://skillicons.dev/icons?i=tailwind"
+    alt="Tailwind CSS"
+  />
   <img
     src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"
     alt="DaisyUI"
@@ -82,7 +91,10 @@
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode"
+    alt="Git GitHub VS Code"
+  />
 </p>
 
 ---
@@ -90,8 +102,8 @@
 ## 🚀 FEATURED PROJECTS
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%">
 
 ### 📚 Book Vibe
 
@@ -106,9 +118,11 @@ A modern book discovery and reading-list application built with Next.js and Type
   View Repository →
 </a>
 
+```
 </td>
 
 <td width="50%">
+```
 
 ### 🏋️ Fit Log
 
@@ -123,11 +137,14 @@ A fitness workout planning application for exploring exercises and managing pers
   View Repository →
 </a>
 
+```
 </td>
-</tr>
+```
 
-<tr>
-<td width="50%">
+  </tr>
+
+  <tr>
+    <td width="50%">
 
 ### 🧩 Dev Stack Builder
 
@@ -141,9 +158,11 @@ A React application for exploring technologies and building a personalized devel
   View Repository →
 </a>
 
+```
 </td>
 
 <td width="50%">
+```
 
 ### ⚡ Hero App
 
@@ -157,8 +176,11 @@ A frontend project built while practicing modern React development.
   View Repository →
 </a>
 
+```
 </td>
-</tr>
+```
+
+  </tr>
 </table>
 
 ---
@@ -192,7 +214,7 @@ A frontend project built while practicing modern React development.
 
 </p>
 
-### 🔥 Repository Stats & Streak
+### 🔥 GitHub Streak
 
 <p align="center">
   <img
