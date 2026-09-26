@@ -39,7 +39,7 @@
 ## 👨‍💻 About Me
 
 
-  👋 Hi, I’m
+*  👋 Hi, I’m
   <a href="https://github.com/biddut-webdev">
     <strong>@biddut-webdev</strong>
   </a>
