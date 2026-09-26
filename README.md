@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/biddut-webdev">
     <img
-      src="./"
+      src="./biddut02.jpeg"
       width="150"
       alt="Biddute Hossen"
     />
