@@ -17,7 +17,7 @@
 </p>
 
 <h2 align="center">
-- 👋 I'm **Biddute Hossen**, a passionate Web Developer.
+Hi 👋, I'm Biddute Hossen
 </h2>
 
 <p align="center">
